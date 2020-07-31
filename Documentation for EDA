@@ -1,0 +1,5 @@
+DataSet link : https://archive.ics.uci.edu/ml/machine-learning-databases/00374/energydata_complete.csv
+
+functions 
+feat_metrics : function to generate r2 and mae
+get_weight : function to generate weight for each features
